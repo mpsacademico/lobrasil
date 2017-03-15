@@ -5,9 +5,9 @@ error_reporting(E_ALL);*/
 $q = isset($_GET['q']) ? $_GET['q'] : NULL; //1
 $con = new PDO("mysql:host=localhost;dbname=lobrasil;charset=utf8", "root", "root");   
 $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-$sql = "SELECT * FROM cidade WHERE nome LIKE :q LIMIT 10;";
+$sql = "SELECT * FROM cidade WHERE nome LIKE :q LIMIT 20;";
 $stmt = $con->prepare($sql);   
-$q= "%".$q."%"; 
+$q= "%".$q."%";
 $stmt->bindParam(":q", $q);   
 $e = $stmt->execute();
 $rs = $stmt->fetchAll(PDO::FETCH_ASSOC);

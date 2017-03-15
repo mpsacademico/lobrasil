@@ -1,0 +1,167 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-AC {
+    width: 32px;
+    height: 20px;
+    background-position: -5px -5px;
+}
+
+.sprite-AL {
+    width: 32px;
+    height: 20px;
+    background-position: -47px -5px;
+}
+
+.sprite-AM {
+    width: 32px;
+    height: 20px;
+    background-position: -89px -5px;
+}
+
+.sprite-AP {
+    width: 32px;
+    height: 20px;
+    background-position: -131px -5px;
+}
+
+.sprite-BA {
+    width: 32px;
+    height: 20px;
+    background-position: -5px -35px;
+}
+
+.sprite-CE {
+    width: 32px;
+    height: 20px;
+    background-position: -47px -35px;
+}
+
+.sprite-DF {
+    width: 32px;
+    height: 20px;
+    background-position: -89px -35px;
+}
+
+.sprite-ES {
+    width: 32px;
+    height: 20px;
+    background-position: -131px -35px;
+}
+
+.sprite-GO {
+    width: 32px;
+    height: 20px;
+    background-position: -5px -65px;
+}
+
+.sprite-MA {
+    width: 32px;
+    height: 20px;
+    background-position: -47px -65px;
+}
+
+.sprite-MG {
+    width: 32px;
+    height: 20px;
+    background-position: -89px -65px;
+}
+
+.sprite-MS {
+    width: 32px;
+    height: 20px;
+    background-position: -131px -65px;
+}
+
+.sprite-MT {
+    width: 32px;
+    height: 20px;
+    background-position: -5px -95px;
+}
+
+.sprite-PA {
+    width: 32px;
+    height: 20px;
+    background-position: -47px -95px;
+}
+
+.sprite-PB {
+    width: 32px;
+    height: 20px;
+    background-position: -89px -95px;
+}
+
+.sprite-PE {
+    width: 32px;
+    height: 20px;
+    background-position: -131px -95px;
+}
+
+.sprite-PI {
+    width: 32px;
+    height: 20px;
+    background-position: -5px -125px;
+}
+
+.sprite-PR {
+    width: 32px;
+    height: 20px;
+    background-position: -47px -125px;
+}
+
+.sprite-RJ {
+    width: 32px;
+    height: 20px;
+    background-position: -89px -125px;
+}
+
+.sprite-RN {
+    width: 32px;
+    height: 20px;
+    background-position: -131px -125px;
+}
+
+.sprite-RO {
+    width: 32px;
+    height: 20px;
+    background-position: -5px -155px;
+}
+
+.sprite-RR {
+    width: 32px;
+    height: 20px;
+    background-position: -47px -155px;
+}
+
+.sprite-RS {
+    width: 32px;
+    height: 20px;
+    background-position: -89px -155px;
+}
+
+.sprite-SC {
+    width: 32px;
+    height: 20px;
+    background-position: -131px -155px;
+}
+
+.sprite-SE {
+    width: 32px;
+    height: 20px;
+    background-position: -173px -5px;
+}
+
+.sprite-SP {
+    width: 32px;
+    height: 20px;
+    background-position: -173px -35px;
+}
+
+.sprite-TO {
+    width: 32px;
+    height: 20px;
+    background-position: -173px -65px;
+}

@@ -1,10 +1,18 @@
 # Lobrasil
+
+![Bandeiras Estaduais Brasileiras](bandeira/sprite/estados/32-20/spritesheet.png)
+
 Lobrasil é um protótipo de API para disponibilização de informações sobre localidades brasileiras.  
 O projeto busca prover facilidades na busca e listagem de cidades, estados e demais localidades do Brasil.
 
 - API para consulta de informações
 - arquivos de dados sobre localidades
 - bandeiras de estados brasileiros
+
+## Linguagens e Ferramentas
+
+- PHP e SQL (MySQL)
+- Notepad++
 
  ## Referências
  
@@ -36,7 +44,4 @@ O projeto busca prover facilidades na busca e listagem de cidades, estados e dem
  https://pt.wikipedia.org/wiki/Ficheiro:Bandeira_do_estado_de_S%C3%A3o_Paulo.svg  
  https://pt.wikipedia.org/wiki/Ficheiro:Bandeira_de_Sergipe.svg  
  https://pt.wikipedia.org/wiki/Ficheiro:Bandeira_do_Tocantins.svg  
- https://pt.wikipedia.org/wiki/Ficheiro:Bandeira_do_Distrito_Federal_(Brasil).svg  
- 
- 
- 
+ https://pt.wikipedia.org/wiki/Ficheiro:Bandeira_do_Distrito_Federal_(Brasil).svg
